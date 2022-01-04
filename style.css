@@ -1,0 +1,37 @@
+.fon-title{
+	position: fixed;
+	left: 25px;
+	top: 100px;
+}
+	a {
+	font-size: 20px;
+	text-decoration: none;
+	color: #8E8E8E;
+}
+a:hover {
+	color: #656161;
+}
+.title{
+	position: fixed;
+	left: 10px;
+	top: 10px;
+}
+.title:hover{
+	transform: scale(1.1);
+}
+body{
+	background-image: url(bio_img.jpg.jpg);
+	background-repeat: no-repeat;
+	background-size: 37%;
+	background-position: right;
+	background-attachment: fixed;;
+}
+.block-bio{
+	color: #625C5C;
+	text-align: left;
+	width: 450px;
+	position: relative;
+	top: 5px;
+	left: 180px;
+
+}
